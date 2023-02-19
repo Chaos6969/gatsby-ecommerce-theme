@@ -100,7 +100,7 @@ const IndexPage = () => {
         bgColor={'var(--standard-light-grey)'}
         title={'about Sydney'}
         quote={
-          '“We believe in two things: Providing Quality Education.”'
+          '“We believe in two things: Providing Quality Education With Quantity.”'
         }
       />
 
@@ -118,7 +118,7 @@ const IndexPage = () => {
           image={'/banner3.png'}
           title={'We are Sustainable'}
           subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
+            'From caring for our Children to their Parents We value Both.'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
